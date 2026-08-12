@@ -15,7 +15,7 @@ Interested in:
 
 ## Technical Skills
 
-##Security & Networking
+#Security & Networking
 - Wireshark
 - Packet Tracer
 - Network Security
