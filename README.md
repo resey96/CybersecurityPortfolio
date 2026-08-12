@@ -14,8 +14,7 @@ Interested in:
 - Building hands-on security projects
 
 ## Technical Skills
-
-#Security & Networking
+Security & Networking
 - Wireshark
 - Packet Tracer
 - Network Security
