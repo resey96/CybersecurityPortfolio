@@ -41,7 +41,7 @@ Cybersecurity graduate student with a background in **Computer Science** and **N
 
 ## 📂 Featured Projects
 
-### [Cloud Incident Response Environment with Microsoft Sentinel](PROJECTS/azure-sentinel-brute-force-detection/)
+### [Cloud Incident Response Environment with Microsoft Sentinel](PROJECTS/azure-sentinel_brute_force_detection/)
 
 Built a cloud-based security monitoring and incident response environment using **Microsoft Azure and Microsoft Sentinel** to simulate attacks, collect security logs, detect suspicious activity with **KQL**, and investigate authentication-based threats.
 
