@@ -27,7 +27,8 @@ The project focuses on identifying brute-force and failed authentication attempt
 | Data Collection Rule (DCR)        | Defines log collection behavior |
 
 ## Detection Scenarios
-1. Linux SSH Brute-Force Detection
+### 1. Linux SSH Brute-Force Detection
+
 The Linux detection scenario focused on identifying repeated failed SSH login attempts originating from the same IP address within a short time period.
 
 Detection Logic
@@ -36,7 +37,8 @@ Detection Logic
   + Group failed attempts by source IP address
   + Detect suspicious thresholds
 
-2. Windows Failed Login Detection
+### 2. Windows Failed Login Detection
+
 The Windows detection scenario focused on identifying repeated failed authentication attempts using Windows Security Event logs.
 
 Detection Logic
@@ -50,7 +52,6 @@ Analytic rules were configured in Microsoft Sentinel to automate detection and g
 
 Automated Detection Features
  + Threshold-based alerting
- + Real-time log monitoring
  + Pattern-based detection
  + Automated incident generation
 
