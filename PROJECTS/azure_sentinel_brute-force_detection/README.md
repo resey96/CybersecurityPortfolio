@@ -3,12 +3,12 @@ This project demonstrates the design and implementation of a cloud-based securit
 The project focuses on identifying brute-force and failed authentication attempts through centralized logging, pattern-based detection, and automated alert generation.
 
 ## Project Objectives
--Build a cloud-based monitoring environment in Microsoft Azure
--Simulate authentication-based attacks
--Collect and centralize logs using Azure Monitor and Log Analytics
--Detect suspicious activity using KQL queries
--Generate alerts using Microsoft Sentinel analytic rules
--Analyze authentication-based attack behavior
+- Build a cloud-based monitoring environment in Microsoft Azure
+- Simulate authentication-based attacks
+- Collect and centralize logs using Azure Monitor and Log Analytics
+- Detect suspicious activity using KQL queries
+- Generate alerts using Microsoft Sentinel analytic rules
+- Analyze authentication-based attack behavior
 
 ## Architecture Overview
 <img width="331" height="851" alt="projectarchitecture1" src="https://github.com/user-attachments/assets/2721812d-f945-4896-84bb-9c9b24550b84" />
