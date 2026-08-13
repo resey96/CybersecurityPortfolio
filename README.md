@@ -1,39 +1,57 @@
-# Hey, my name is Kerese :)
-Cybersecurity graduate student with a background in computer science and network engineering.
+# Hi, I'm Kerese 👋
 
-Interested in:
-- Cloud Security
-- Infrastructure Security
-- Governance, Risk and Compliance (GRC)
-- Security Automation
+Cybersecurity graduate student with a background in **Computer Science** and **Network Engineering**, focused on building practical skills across cloud, infrastructure, and security operations.
 
-# Currently Working On
-- Cybersecurity lab projects
-- Python scripting for security
-- Cloud security concepts
-- Building hands-on security projects
+## 🔐 Areas of Interest
 
-## Technical Skills
-Security & Networking
-- Wireshark
-- Packet Tracer
-- Network Security
-- Vulnerability Assessment
+* Cloud Security
+* Infrastructure Security
+* Governance, Risk, and Compliance (GRC)
+* Security Automation
 
-## Programming
-- Python
-- Bash
+##  Currently Working On
 
+* Cybersecurity labs and hands-on security projects
+* Python scripting for security
+* Cloud security concepts
+* Expanding practical experience with security tools and technologies
 
-## Cloud & Infrastructure
-- Microsoft Azure
-- Linux
+## 🛠️ Technical Skills
 
-## Certifications
-- Microsoft Azure Fundamentals (AZ-900)
+### Security & Networking
 
-## Featured Projects
-(Projects will be added here as I build and upload them.)
+* Wireshark
+* Cisco Packet Tracer
+* Network Security
+* Vulnerability Assessment
 
-## Connect With Me
-- LinkedIn: www.linkedin.com/in/kerese-moore-a7850b181/
+### Programming & Scripting
+
+* Python
+* Bash
+
+### Cloud & Infrastructure
+
+* Microsoft Azure
+* Linux
+
+## 🎓 Certifications
+
+* **Microsoft Certified: Azure Fundamentals (AZ-900)**
+
+## 📂 Featured Projects
+
+### [Cloud Incident Response Environment with Microsoft Sentinel](PROJECTS/azure-sentinel-brute-force-detection/)
+
+Built a cloud-based security monitoring and incident response environment using **Microsoft Azure and Microsoft Sentinel** to simulate attacks, collect security logs, detect suspicious activity with **KQL**, and investigate authentication-based threats.
+
+##  Labs
+
+Hands-on cybersecurity labs will be documented here as I continue building practical experience.
+
+➡️ [View My Labs](LABS/)
+
+## 🔗 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/kerese-moore-a7850b181/)
+
