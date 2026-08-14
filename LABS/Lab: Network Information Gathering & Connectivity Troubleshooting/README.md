@@ -205,7 +205,7 @@ Ubuntu:
 192.168.50.20/24
 ```
 
-![Private lab interface](,/labscreenshots/private-lab-network.png)
+![Private lab interface](./labscreenshots/private-lab-network.png)
 
 Because both addresses belong to the same subnet, Kali and Ubuntu can communicate directly without a router between them.
 The NAT interfaces remained available separately for Internet connectivity.
