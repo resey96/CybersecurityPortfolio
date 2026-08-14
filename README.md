@@ -40,11 +40,7 @@ Cybersecurity graduate student with a background in **Computer Science** and **N
 * **Microsoft Certified: Azure Fundamentals (AZ-900)**
 
 ## 📂 Featured Projects
-
-### [Cloud Incident Response Environment with Microsoft Sentinel](PROJECTS/azure-sentinel_brute_force_detection/)
-
-Built a cloud-based security monitoring and incident response environment using **Microsoft Azure and Microsoft Sentinel** to simulate attacks, collect security logs, detect suspicious activity with **KQL**, and investigate authentication-based threats.
-
+Projects to be added here
 ##  Labs
 
 Hands-on cybersecurity labs will be documented here as I continue building practical experience.
